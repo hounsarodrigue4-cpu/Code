@@ -1,0 +1,6 @@
+{
+  "name": "Programme 3.0 — Épargner et investir son salaire",
+  "description": "Programme numérique d'éducation financière axé sur la BRVM pour salariés d'Afrique de l'Ouest",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
